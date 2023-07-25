@@ -2,7 +2,10 @@
 
 This is a new project.
 
-**Based on IPEM, this is a NEW project which will evolve during Q3 2023.**
+**Based on IPEC and other project commitements and feedback, this is a NEW project which will now evolve during Q3 2024.**
+
+Originally this was due to be based on IPEM but as feedback has evolved,  this will now be based on the new IPEC board, so allowing for the expansion board(s), to be included.
+
 
 
 
