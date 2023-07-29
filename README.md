@@ -10,9 +10,17 @@ EPEM follows in the successful development footsteps of the IPEM and IPEC Power 
 
 EPEM is an Ethernet Power Energy Monitor and Controller. 3 Phase, or 3 x Single Phases, with DAC/PWM/MPWM/MPPT/I2C Expansion Port Outputs.
 
-This is very much in development and work in progress (July 2023)
+ - For remote Solar Power Energy installations which have no/limited
+ - WiFi coverage, EPEM is an Ethernet based Power Energy Monitor and
+ - Controller. ATM90E32 Enhanced High-performance Energy Metering
+ - Device. Espressif ESP32 (Popular and Reliable MCU). Full Three Phase
+ - Remote Power Monitoring (3P3W, Y or Δ). Up-to 3 x Single, Split,
+ - Individual Phase Power Monitoring. DAC, PWM, MPWM, MPPT and I2C
+ - Expansion Ports. Automated Controlling of Solar Power Diversion,
+ - Smart Charging, Relays etc. Stand-Alone Operation, and/or IoT MQTT
+   Integrated.
 
-Please feel free to email me with any wish list ideas.. 
+This is in the design stages:  What would you like see on this?
 
 
 ## **Further Information**
