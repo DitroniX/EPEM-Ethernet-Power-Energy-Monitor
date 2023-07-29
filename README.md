@@ -2,9 +2,15 @@
 
 This is a new project.
 
+![enter image description here](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20%28Placeholder%29.jpg?raw=true)
+
 **Based on IPEC and other project commitements and feedback, this is a NEW project which will now evolve during Q3 2024.**
 
-Originally this was due to be based on IPEM but as feedback has evolved,  this will now be based on the new IPEC board, so allowing for the expansion board(s), to be included.
+EPEM follows in the successful development footsteps of the IPEM and IPEC Power Energy Monitoring Boards.
+
+EPEM is an Ethernet Power Energy Monitor and Controller. 3 Phase, or 3 x Single Phases, with DAC/PWM/MPWM/MPPT/I2C Expansion Port Outputs.
+
+This is very much in development and work in progress (July 2023)
 
 Please feel free to email me with any wish list ideas.. 
 
