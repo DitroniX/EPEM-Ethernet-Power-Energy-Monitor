@@ -6,7 +6,7 @@ This is a new project.
 
 Originally this was due to be based on IPEM but as feedback has evolved,  this will now be based on the new IPEC board, so allowing for the expansion board(s), to be included.
 
-
+Please fel free to email me with any wish list ideas.. 
 
 
 ## **Further Information**
