@@ -4,7 +4,7 @@ This is a new project.
 
 ![enter image description here](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20%28Placeholder%29.jpg?raw=true)
 
-**Based on IPEC and other project commitements and feedback, this is a NEW project which will now evolve during Q3 2024.**
+**Based on IPEC and other project commitements and feedback, this is a NEW project which will now evolve during Q3 2023.**
 
 EPEM follows in the successful development footsteps of the IPEM and IPEC Power Energy Monitoring Boards.
 
