@@ -2,8 +2,25 @@
 
 This is a new project.
 
-**Based on IPEM, this is a NEW project which will evolve during Q3 2023.**
+![enter image description here](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20%28Placeholder%29.jpg?raw=true)
 
+**Based on IPEC and other project commitements and feedback, this is a NEW project which will now evolve during Q3 2023.**
+
+EPEM follows in the successful development footsteps of the IPEM and IPEC Power Energy Monitoring Boards.
+
+EPEM is an Ethernet Power Energy Monitor and Controller. 3 Phase, or 3 x Single Phases, with DAC/PWM/MPWM/MPPT/I2C Expansion Port Outputs.
+
+ - For remote Solar Power Energy installations which have no/limited WiFi coverage
+ - EPEM is an Ethernet based Power Energy Monitor and  - Controller.
+ - ATM90E32 Enhanced High-performance Energy Metering  - Device.
+ - Espressif ESP32 (Popular and Reliable MCU).
+ - Full Three Phase Remote Power Monitoring (3P3W, Y or Δ).
+ - Up-to 3 x Single, Split, Individual Phase Power Monitoring.
+ - DAC, PWM, MPWM, MPPT and I2C Expansion Ports.
+ - Automated Controlling of Solar Power Diversion, Smart Charging, Relays etc.
+ - Stand-Alone Operation, and/or IoT MQTT Integrated.
+
+This is in the design stages:  What would you like see on this?
 
 
 ## **Further Information**
