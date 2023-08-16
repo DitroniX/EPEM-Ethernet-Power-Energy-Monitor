@@ -1,6 +1,6 @@
 ## EPEM ESP32 ATM90E32 ATM90E36 Ethernet Power Energy Monitor SDK
 
-This is a new project.
+This is a new project Q3 2023.
 
 ![enter image description here](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20%28Placeholder%29.jpg?raw=true)
 
