@@ -20,7 +20,81 @@ EPEM is an Ethernet Power Energy Monitor and Controller. 3 Phase, or 3 x Single 
  - Automated Controlling of Solar Power Diversion, Smart Charging, Relays etc.
  - Stand-Alone Operation, and/or IoT MQTT Integrated.
 
-This is in the design stages:  What would you like see on this?
+**Update 15th August 2023**
+
+This board is in the design stages:
+
+Following a couple of weeks technical pondering, I now have a ballpark for the EPEM board design outline and the proof of concept and design is now underway.
+
+Below is an overview (in no particular sort order), of some of the many areas being covered in this board R&D, all of which reflect in the design, prototyping, build and manufacturing costs.
+
+-   ATM90E32 and/or ATM90E36
+    
+-   ESP32 Variant
+    
+-   Backup WiFi/BT, or Not.
+    
+-   IPEM/IPEC Design Continuity
+    
+-   Ethernet Controller PHY SPI Interface and Protocols
+    
+-   Wake Up over UDP
+    
+-   Voltage and Noise Tolerance
+    
+-   PoE Standard(s) and Compliance to 802.3at Type 1 (802.3af)
+    
+-   PoE Galvanic Isolation and Safety
+    
+-   PoE Voltage Range
+    
+-   Power Device (PD), Controller
+    
+-   Power Demands and Management
+    
+-   Thermal Protection and Shutdown/Reset
+    
+-   PoE Operating Distance (Power and Data) >= 100M?
+    
+-   Lightning Surge Protection
+    
+-   ESD Protection
+    
+-   Transient Voltage Suppression
+    
+-   On-Board Power DC-DC
+    
+-   Target EMC Compliance (Ideally the more stringent Class B)
+    
+-   Target EMI Compliance (Ideally 4kV C, 8kV A, 10 V/m RFI)
+    
+-   Component Density v Power/Temperature
+    
+-   Operating Temperature Range
+    
+-   Temperature Sensing
+    
+-   Low Voltage Reset and Brown Out (BOR)
+    
+-   Board Size, Layers, Stack etc.
+    
+-   Testability and Test Points
+    
+-   Flying Probe Testing
+    
+-   Cost, Manufacturability and Line Testing
+    
+-   Continuity of IPEM/IPEC Code Base
+    
+-   IPEC Expansion Port Compliance
+    
+
+Now the above 'shopping' list is broadly complete, the design can move forward.
+
+Should you have any thoughts, or have a challenging application and would like to beta test a board, please let me know. 
+
+
+
 
 
 ## **Further Information**
