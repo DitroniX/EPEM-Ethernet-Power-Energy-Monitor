@@ -54,7 +54,7 @@ Below is an overview (in no particular sort order), of some of the many areas be
     
 -   Thermal Protection and Shutdown/Reset
     
--   PoE Operating Distance (Power and Data) >= 100M?
+-   PoE Operating Distance (Power and Data) >= 100m?
     
 -   Lightning Surge Protection
     
