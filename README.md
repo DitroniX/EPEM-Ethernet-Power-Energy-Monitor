@@ -10,7 +10,9 @@ Exciting news for July/August 2025, with the advent of the powerful ESP32-C6, th
 
 ## Updates
 
+-   25-07-06 - Information Preview Launched
 -   25-07-06 - Beta Board final layout review before fabrication
+-   25-06    - Alpha Testing, Schematics and Layout Topology
 
 
 ## **Further Information**
