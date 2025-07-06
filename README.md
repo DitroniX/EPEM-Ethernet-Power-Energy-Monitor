@@ -1,6 +1,6 @@
 ## EPEM ESP32-C6 ATM90E36 Ethernet Power Energy Monitor SDK
 
-Exciting news for July/August 2025, with the advent of the powerful ESP32-C6, this new compact EPEM boaard is due for release. Watch this space........
+Exciting news for July/August 2025, with the advent of the powerful ESP32-C6, this new compact EPEM board is due for release. Watch this space........
 
 ![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20Preview.png?raw=true)
 
