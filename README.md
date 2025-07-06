@@ -2,11 +2,15 @@
 
 Exciting news for July/August 2025, with the advent of the powerful ESP32-C6, this new compact EPEM board is due for release. Watch this space........
 
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor?tab=readme-ov-file#updates)
+
+[**Sign up to our Newsletter - Click Here**](https://ditronix.net/newsletter)
+
 ![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20Preview.png?raw=true)
 
+## Updates
 
-
-
+-   25-07-06 - Beta Board final layout review before fabrication
 
 
 ## **Further Information**
