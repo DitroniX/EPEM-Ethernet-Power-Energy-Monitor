@@ -25,21 +25,30 @@ The **EPEM** IoT **Ethernet Power Energy Monitor** board main features and Outli
 
 -  **Compact and Flexible Proven Design**
 	- Only 85mm x 55mm
+	- Fully Populated and Tested
 -  **All connections are Low Voltage, for Safe Installation and Operation**
 -  **Easy to interface and Program**
 - **Powerful Radio or Ethernet Connections to IoT Network**
+- **Board Jumpers for Easy 'No Solder' Configuration**
 
 **Devices and Interfaces**
 
--  **Espressif ESP32 C6 MINI 1U**
-    -   Wi-Fi 6 2.4 GHz 802.11ax | 802.11b/g/n
+-  **Espressif ESP32 C6**
+    -   ESP32-C6-MINI-1U-N4 (MHF3 Antenna Connector)
+    -   Wi-Fi 6 | 2.4 GHz | 802.11ax | 802.11b/g/n
     -   Bluetooth | LE | 5.3 | Mesh
     -   Thread 1.4 | 802.15.4 | Mesh
     -   Zigbee 3.0 | 802.15.4 | Mesh
+    -   3 UARTS
+    -   I2C
+    -   SPI (2xCS)
+    -   USB
+    -   ADC
+    -   User LED
 -  **TYPE C Interfaces (x2)**
-    - ESP32-C6 USB | JTAG | Debugging | 5V Supply
+    - ESP32-C6 USB | JTAG | Debugging | 5V Supply 
     - UART (esp32-c6-devkitm-1 compatible) | Serial Monitor | 5V Supply
--  **ATM90E36 Energy Monitor**
+-  **ATM90E36A Energy Monitor**
 	- Enhanced Poly-Phase Energy Metering IC
 	- High-Performance Wide-Span
 	- High Accuracy
@@ -78,31 +87,36 @@ The **EPEM** IoT **Ethernet Power Energy Monitor** board main features and Outli
 	- WIZnet Hardwired Internet Controller
 	- Integrated Full TCP/IP Stack
 	- RJ45 with Active and Link LEDs
--  **RS-485 Interface**
+	- SPD/DUP LEDs
+-  **RS-485 CS48520D Interface**
     - MODBUS or Other Protocol
     - Selectable 120R Load Resistor
     - Optional Ground for Shielded Cable to Asymmetrical TVS Diode
+    - Chipanalog Half-Duplex Transceiver
+    - EN/TXD LEDs
 -  **24C64 EEPROM**
     - Parameter Settings
     - Logging
     - Meter Readings
--  **DS3231 Real Time Clock**
+-  **DS3231SN Real Time Clock**
     - Accurate Real Time Clock
     - Battery Back Up Option
+    - INT_RTC Monitor
 -  **TMP102 Temperature**
     - Ambient Temperature Sensor
 - **OLED I2C Interface**
     - I2C Interface
     - OLED I2C Connector
     - Configurable Power Pins
--  **WS2812 RGB LED**
+-  **WS2812B RGB LED**
     - RGB Status LED
     - Associated LM2775 5V SMPS
 -  **AP63203 Onboard SMPS Board Power Supply**
 	- 5V From Either Type C USB
 	- Power taken from DC Input (4.5V to 20V)
-	- Power taken from AC Input 12V
--  **Buttons**
+	- Power taken from AC Input (~12V to 18V RMS)
+	- Power LEDs
+-  **Tactile Buttons**
 	- Reset Button
 	- User Programmable Button / PGM
 
