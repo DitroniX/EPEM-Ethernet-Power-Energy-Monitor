@@ -23,6 +23,8 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 **EPEM** is an acronym for **Ethernet, Power Energy Monitor**
 
+**EPEM** is a compact and powerful board which is designed for IoT monitoring of mains power circuits.
+
 ### **What is a Power Energy Monitor?**
 
 A power energy monitor is a device that safely samples the AC voltage and current flow, from one, or more, electrical phases, and from this, derives a range of accurate mains power measurements which can then be used for smart metering, or energy monitoring purposes.
@@ -78,7 +80,7 @@ My design focus was to maintain the original IPEM board size of 85x55mm, maintai
 -   DS3231DN RTC & Battery Backup Option
 -   Remove Solder Jumpers
 
-In addition, although the board is multi-layer, I wanted to try and keep all SMT ideally to one side in order to keep the board mechanical skyline as low and compact as possible, this meant all standard passive components shrinking down to very small 0201 size.
+In addition, although the board is multi-layer, I wanted to try and keep all SMT ideally to one side in order to keep the board mechanical skyline as low and compact as possible, this meant all standard passive components shrinking down to very small size and so including more features for the user.
 
 ### **MCU Change**
 
