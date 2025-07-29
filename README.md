@@ -23,7 +23,7 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 **EPEM** is an acronym for **Ethernet, Power Energy Monitor**
 
-**EPEM** is a compact and powerful board which is designed for IoT monitoring of mains power circuits.
+**EPEM** is a compact and powerful STEM Community board which is designed for IoT monitoring of mains power circuits.
 
 ### **What is a Power Energy Monitor?**
 
