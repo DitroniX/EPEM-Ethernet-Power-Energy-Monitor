@@ -12,10 +12,16 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   25-07-31 - Prototype Beta boards arrived and looking great!
 -   25-07-22 - Prototype Beta boards in fabrication and SMT
 -   25-07-06 - Information Preview Launched
 -   25-07-06 - Beta Board final layout review before fabrication
 -   25-06    - Alpha Testing, Schematics and Layout Topology
+
+
+_EPEM Ethernet Power Energy Monitor - ESP32-C6 ATM90E36 Prototype Beta (31st July 2025)_
+
+![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20ESP32-C6%20ATM90E36%20Prototype%20Beta.jpg?raw=true)
 
 ## Features
 
