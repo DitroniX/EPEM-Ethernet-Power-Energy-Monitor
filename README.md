@@ -1,6 +1,8 @@
 ## EPEM ESP32-C6 ATM90E36 Ethernet Power Energy Monitor SDK
 
-Exciting news for July/August 2025, with the advent of the powerful ESP32-C6, this new compact EPEM board is due for release. Watch this space........
+**Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
+
+[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 The new **EPEM** SDK board contains all of the original proven [IPEM](https://github.com/DitroniX/IPEM-IoT-Power-Energy-Monitor) functionality, including the ATM90E36, then adds Ethernet and RS-485 interfaces.
 
@@ -12,6 +14,7 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   25-07-31 - Preparing for launch on [Kickstarter](https://www.kickstarter.com/projects/ditronix/epem-ethernet-power-energy-monitor)
 -   25-07-31 - Prototype Beta boards arrived and looking great!
 -   25-07-22 - Prototype Beta boards in fabrication and SMT
 -   25-07-06 - Information Preview Launched
