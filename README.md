@@ -1,6 +1,8 @@
 ## EPEM ESP32-C6 ATM90E36 Ethernet Power Energy Monitor SDK
 
-Exciting news for July/August 2025, with the advent of the powerful ESP32-C6, this new compact EPEM board is due for release. Watch this space........
+**Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
+
+[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 The new **EPEM** SDK board contains all of the original proven [IPEM](https://github.com/DitroniX/IPEM-IoT-Power-Energy-Monitor) functionality, including the ATM90E36, then adds Ethernet and RS-485 interfaces.
 
@@ -12,10 +14,17 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   25-07-31 - Preparing for launch on [Kickstarter](https://www.kickstarter.com/projects/ditronix/epem-ethernet-power-energy-monitor)
+-   25-07-31 - Prototype Beta boards arrived and looking great!
 -   25-07-22 - Prototype Beta boards in fabrication and SMT
 -   25-07-06 - Information Preview Launched
 -   25-07-06 - Beta Board final layout review before fabrication
 -   25-06    - Alpha Testing, Schematics and Layout Topology
+
+
+_EPEM Ethernet Power Energy Monitor - ESP32-C6 ATM90E36 Prototype Beta (31st July 2025)_
+
+![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20ESP32-C6%20ATM90E36%20Prototype%20Beta.jpg?raw=true)
 
 ## Features
 
@@ -23,7 +32,7 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 **EPEM** is an acronym for **Ethernet, Power Energy Monitor**
 
-**EPEM** is a compact and powerful board which is designed for IoT monitoring of mains power circuits.
+**EPEM** is a compact and powerful STEM Community board which is designed for IoT monitoring of mains power circuits.
 
 ### **What is a Power Energy Monitor?**
 

@@ -43,7 +43,9 @@ Example PlatformIO will have the configuration set and libraries included, so th
 
 In ESPHome you configure the board in the *yaml* code.
 
-*NB. ESPHome unfortunately for some reason, does not list support for the ESP32-C6 within the code but it does work*   In the later release of Home Assistant, this ESP32-C6 has native support.
+ESPHome unfortunately for some reason, does not list support for the ESP32-C6 within the code but it does work
+
+In the later release of Home Assistant, this ESP32-C6 has native support.
 
 The below example will configure the ESP32-C6.
 
