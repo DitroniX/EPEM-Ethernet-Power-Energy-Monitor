@@ -90,6 +90,9 @@ My design focus was to maintain the original IPEM board size of 85x55mm, maintai
 
 In addition, although the board is multi-layer, I wanted to try and keep all SMT ideally to one side in order to keep the board mechanical skyline as low and compact as possible, this meant all standard passive components shrinking down to very small size and so including more features for the user.
 
+![EPEM - Ethernet Power Energy Monitor Overview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20EPEM%20Ethernet%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png?raw=true)
+
+
 ### **MCU Change**
 
 All original IPEM boards and variants were based on the ESP32-WROOM.
