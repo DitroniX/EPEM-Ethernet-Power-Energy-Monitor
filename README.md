@@ -8,12 +8,11 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor?tab=readme-ov-file#updates)
 
-[**Sign up to our Newsletter - Click Here**](https://ditronix.net/newsletter)
-
 ![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20Preview.png?raw=true)
 
 ## Updates
 
+-   25-07-31 - YouTube Video Published [EPEM](https://www.youtube.com/watch?v=buDLhy5ddp8&ab_channel=DitroniX)
 -   25-07-31 - Preparing for launch on [Kickstarter](https://www.kickstarter.com/projects/ditronix/epem-ethernet-power-energy-monitor)
 -   25-07-31 - Prototype Beta boards arrived and looking great!
 -   25-07-22 - Prototype Beta boards in fabrication and SMT
