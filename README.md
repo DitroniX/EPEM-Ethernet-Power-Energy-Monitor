@@ -13,6 +13,8 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   25-09-02 - Kickstarter complete and project fully funded.
+-   25-08    - Preproduction board in preperation for final testing
 -   25-07-31 - YouTube Video Published [EPEM](https://www.youtube.com/watch?v=buDLhy5ddp8&ab_channel=DitroniX)
 -   25-07-31 - Preparing for launch on [Kickstarter](https://www.kickstarter.com/projects/ditronix/epem-ethernet-power-energy-monitor)
 -   25-07-31 - Prototype Beta boards arrived and looking great!
