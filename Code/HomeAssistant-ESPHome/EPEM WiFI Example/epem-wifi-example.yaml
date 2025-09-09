@@ -1,0 +1,70 @@
+esphome:
+  name: epem-wifi-example
+  friendly_name: EPEM WiFi Example
+
+esp32:
+  board: esp32-c6-devkitc-1
+  framework:
+    type: esp-idf
+
+# Enable logging
+logger:
+
+i2c:
+  id: bus_a  
+  sda: GPIO06
+  scl: GPIO07
+  scan: true
+
+switch:
+# EPEM Outputs  
+  - platform: gpio
+    name: "Red LED"  
+    pin:
+      number: GPIO22 
+      mode: output
+    id: Output_GP22
+    # inverted: false
+
+  # Heatbeat the GPIO LED on GP22
+interval:
+- interval: 1s
+  then:
+  - switch.toggle: Output_GP22   
+
+  # TMP102 Temperature Sensor
+sensor:
+  - platform: tmp102
+    name: "TMP102"
+    update_interval: 5s
+    address: 0x4A   
+
+light:
+  - platform: esp32_rmt_led_strip
+    id: led_rgb
+    rgb_order: RGB
+    pin: GPIO08
+    num_leds: 1
+    chipset: ws2812
+    name: "RGB LED"              
+
+# Enable Home Assistant API - Create new instance and copy to below
+api:
+  encryption:
+    key: "####="
+
+ota:
+  - platform: esphome
+    password: "####"
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Epem-Wifi-Example"
+    password: "XHi3N8J8EzLi"
+
+captive_portal:
+    

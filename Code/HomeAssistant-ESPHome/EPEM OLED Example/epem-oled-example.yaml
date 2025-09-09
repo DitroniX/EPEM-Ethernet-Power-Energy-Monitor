@@ -1,0 +1,73 @@
+esphome:
+  name: epem-oled-example
+  friendly_name: EPEM OLED Example
+
+esp32:
+  board: esp32-c6-devkitc-1
+  framework:
+    type: esp-idf
+
+# Enable logging
+logger:
+
+# Dependencies
+# Requires the Arial.ttf file or other font for display routines
+# Example information of uploading fonts. The filename is case-sensitive. https://quinled.info/esphome-font-upload/
+# NB.In EPEM, the font(s) are stored in /homeassistant/esphome/fonts
+
+font:
+  - file: 'fonts/arial.ttf'
+    id: font24
+    size: 24
+
+# ------------------------------------------------- #    
+
+i2c:
+  id: bus_a  
+  sda: GPIO06
+  scl: GPIO07
+  scan: true
+
+ethernet:
+  type: W5500
+  clk_pin: GPIO19
+  mosi_pin: GPIO18
+  miso_pin: GPIO20
+  cs_pin: GPIO14
+  interrupt_pin: GPIO15
+  
+switch:
+# EPEM Outputs  
+  - platform: gpio
+    name: "Red LED"  
+    pin:
+      number: GPIO22 
+      mode: output
+    id: Output_GP22
+    # inverted: false
+
+display:
+  - platform: ssd1306_i2c
+    id: i2cdisplay
+    model: "SSD1306 128x64"
+    address: 0x3C
+    lambda: |- 
+      it.print(30, 0, id(font24), TextAlign::TOP_LEFT, "EPEM");
+      it.print(15, 21, id(font24), TextAlign::TOP_LEFT, "Hello");
+      it.print(50, 42, id(font24), TextAlign::TOP_LEFT, "World"); 
+
+  # Heatbeat the GPIO LED on GP22
+interval:
+- interval: 1s
+  then:
+  - switch.toggle: Output_GP22     
+
+# Enable Home Assistant API - Create new instance and copy to below
+api:
+  encryption:
+    key: "####="
+
+ota:
+  - platform: esphome
+    password: "####"
+
