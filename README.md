@@ -2,18 +2,20 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-[![KickStarter](https://github.com/DitroniX/DitroniX/blob/main/Files/KickStarter-SupportUs.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
+[![KickStarter](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/Kickstarter%20-%20Now%20Live%20-%20EPEM.png 'KickStarter')](https://www.kickstarter.com/profile/ditronix/created)
 
 The new **EPEM** SDK board contains all of the original proven [IPEM](https://github.com/DitroniX/IPEM-IoT-Power-Energy-Monitor) functionality, including the ATM90E36, then adds Ethernet and RS-485 interfaces.
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor?tab=readme-ov-file#updates)
 
-[**Sign up to our Newsletter - Click Here**](https://ditronix.net/newsletter)
 
-![EPEM - Ethernet Power Energy Monitor Preview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20-%20Ethernet%20Power%20Energy%20Monitor%20Preview.png?raw=true)
+![EPEM - Ethernet Power Energy Monitor Overview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20EPEM%20Ethernet%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png?raw=true)
 
 ## Updates
 
+-   25-09-02 - Kickstarter complete and project fully funded.
+-   25-08    - Preproduction board in preperation for final testing
+-   25-07-31 - YouTube Video Published [EPEM](https://www.youtube.com/watch?v=buDLhy5ddp8&ab_channel=DitroniX)
 -   25-07-31 - Preparing for launch on [Kickstarter](https://www.kickstarter.com/projects/ditronix/epem-ethernet-power-energy-monitor)
 -   25-07-31 - Prototype Beta boards arrived and looking great!
 -   25-07-22 - Prototype Beta boards in fabrication and SMT
@@ -90,6 +92,8 @@ My design focus was to maintain the original IPEM board size of 85x55mm, maintai
 -   Remove Solder Jumpers
 
 In addition, although the board is multi-layer, I wanted to try and keep all SMT ideally to one side in order to keep the board mechanical skyline as low and compact as possible, this meant all standard passive components shrinking down to very small size and so including more features for the user.
+
+
 
 ### **MCU Change**
 
