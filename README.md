@@ -13,6 +13,9 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   25-09-17 - Preparing fulfillment, following Kickstarter finalising the project and Backer Survey.
+-   25-09-10 - Preproduction EPEM board, tested and finalised production layout and boards ready for fulfillment.
+-   25-09-04 - Much appreciated Kickstarter support and now collating the backer pledges and orders. Thank you.
 -   25-09-02 - Kickstarter complete and project fully funded.
 -   25-08    - Preproduction board in preperation for final testing
 -   25-07-31 - YouTube Video Published [EPEM](https://www.youtube.com/watch?v=buDLhy5ddp8&ab_channel=DitroniX)
