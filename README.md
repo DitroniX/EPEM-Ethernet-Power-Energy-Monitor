@@ -277,7 +277,6 @@ The **EPEM** IoT **Ethernet Power Energy Monitor** board main features and Outli
 -   **AP63203 Onboard SMPS Board Power Supply**
     -   5V From Either Type C USB
     -   Power taken from DC Input (4.5V to 20V)
-    -   Power taken from AC Input (~12V to 18V RMS)
     -   Power LEDs
 -   **Tactile Buttons**
     -   Reset Button
