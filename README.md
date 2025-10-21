@@ -13,6 +13,7 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   25-10-21 - Production boards arrived and are now going through testing.  Once complete, these will be shipped to Kickstarter Rewards.  Then added to normal stock.
 -   25-10-09 - Board production midway.  PCBs fabricated and next stage going into SMT.  Delay for China Holiday.  
 -   25-09-26 - Following user requests, a variant of EPEM ATM90E36 has been designed and Beta ordered.  This includes the ATM90E32.
 -   25-09-26 - After BOM delays, the EPEM is now back on track and in produciton next week.
