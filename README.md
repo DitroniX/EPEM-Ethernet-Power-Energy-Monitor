@@ -1,4 +1,4 @@
-## EPEM ESP32-C6 ATM90E36 Ethernet Power Energy Monitor SDK
+## EPEM ESP32-C6 ATM90E36 ATM90E32 Ethernet Power Energy Monitor SDK
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
@@ -13,7 +13,8 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
--   25-10-21 - Production boards arrived and are now going through testing.  Once complete, these will be shipped to Kickstarter Rewards.  Then added to normal stock.
+-   25-10-21 - EPEM E32 Beta boards have also arrived, and will go through testing.
+-   25-10-21 - Production EPEM E36 boards arrived and are now going through testing.  Once complete, these will be shipped to Kickstarter Rewards.  Then added to normal stock.
 -   25-10-09 - Board production midway.  PCBs fabricated and next stage going into SMT.  Delay for China Holiday.  
 -   25-09-26 - Following user requests, a variant of EPEM ATM90E36 has been designed and Beta ordered.  This includes the ATM90E32.
 -   25-09-26 - After BOM delays, the EPEM is now back on track and in produciton next week.
