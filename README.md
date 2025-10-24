@@ -13,6 +13,7 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   25-10-24 - Kickstarter rewards shipped.  Thank you all for your support.
 -   25-10-21 - EPEM E32 Beta boards have also arrived, and will go through testing.
 -   25-10-21 - Production EPEM E36 boards arrived and are now going through testing.  Once complete, these will be shipped to Kickstarter Rewards.  Then added to normal stock.
 -   25-10-09 - Board production midway.  PCBs fabricated and next stage going into SMT.  Delay for China Holiday.  
