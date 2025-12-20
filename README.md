@@ -9,10 +9,13 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor?tab=readme-ov-file#updates)
 
 
-![EPEM - Ethernet Power Energy Monitor Overview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20EPEM%20Ethernet%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png?raw=true)
+![EPEM ATM90E36 - Ethernet Power Energy Monitor Overview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20EPEM%20Ethernet%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png?raw=true)
+
+![EPEM ATM90E32 - Ethernet Power Energy Monitor Overview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20EPEM%20ATM90E32%20Ethernet%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png?raw=true)
 
 ## Updates
 
+-   25-12-20 - EPEM ATM90E32 Now available in store and eBay.
 -   25-10-24 - Kickstarter rewards shipped.  Thank you all for your support.
 -   25-10-21 - EPEM E32 Beta boards have also arrived, and will go through testing.
 -   25-10-21 - Production EPEM E36 boards arrived and are now going through testing.  Once complete, these will be shipped to Kickstarter Rewards.  Then added to normal stock.
@@ -38,9 +41,10 @@ _EPEM Ethernet Power Energy Monitor - ESP32-C6 ATM90E36_
 ![EPEM E36 - Ethernet Power Energy Monitor](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20ATM90E36%20Production%20Board%20(1).jpg?raw=true)
 ![EPEM E36 - Ethernet Power Energy Monitor](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20ATM90E36%20Production%20Board%20(2).jpg?raw=true)
 
-_EPEM Ethernet Power Energy Monitor - ESP32-C6 ATM90E32 Beta_
+_EPEM Ethernet Power Energy Monitor - ESP32-C6 ATM90E32_
 
-![EPEM E32 - Ethernet Power Energy Monitor](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20ATM90E32%20Beta%20Board%20(3).jpg?raw=true)
+![EPEM E32 - Ethernet Power Energy Monitor](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20ATM90E32%20Board%20Angled.jpg?raw=true)
+![EPEM E32 - Ethernet Power Energy Monitor](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20ATM90E32%20Board%20-%20Top.png?raw=true)
 
 ## Features
 
