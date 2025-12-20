@@ -7,6 +7,16 @@ This folder contains Example Source Code and Information to help you develop and
  
 The **EPEM** is **ESP32-C6** based and the following examples/information should help you get started.
 
+# FLEX and Home Assistant (ESPHome)
+
+**FLEX** is PlatformIO code which tests and runs on either the EPEM ATM90E32 or EPEM ATM90E326.
+
+[FLEX can be found here](https://github.com/DitroniX/FLEX-DitroniX-Power-Energy-Monitor-Firmware)
+
+**Home Assistant (ESPHome)** support is also provided.
+
+[Additional Home Assistant (ESPHome), component repository can be found here](https://github.com/DitroniX/Home-Assistant-Dev)
+
 
 # Example Environments
 
