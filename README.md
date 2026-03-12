@@ -15,6 +15,7 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 ## Updates
 
+-   26-02-16 - EPEM ATM90E36 Boards have been very popular and another production run is in progress. In stock approximately 17th March.
 -   25-12-20 - EPEM ATM90E32 Now available in store and eBay.
 -   25-10-24 - Kickstarter rewards shipped.  Thank you all for your support.
 -   25-10-21 - EPEM E32 Beta boards have also arrived, and will go through testing.
