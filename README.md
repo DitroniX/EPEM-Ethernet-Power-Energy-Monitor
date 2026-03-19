@@ -8,6 +8,7 @@ The new **EPEM** SDK board contains all of the original proven [IPEM](https://gi
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor?tab=readme-ov-file#updates)
 
+![PEM Power Energy IoT Monitor](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/EPEM%20Power%20Energy%20Monitor.png)
 
 ![EPEM ATM90E36 - Ethernet Power Energy Monitor Overview](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/DitroniX.net%20EPEM%20Ethernet%20Power%20Energy%20Monitor%20Board%20SDK%20Overview.png?raw=true)
 
