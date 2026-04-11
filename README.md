@@ -4,7 +4,7 @@
 
 The new **EPEM** SDK board contains all of the original proven [IPEM](https://github.com/DitroniX/IPEM-IoT-Power-Energy-Monitor) functionality, including the ATM90E36, then adds Ethernet and RS-485 interfaces.
 
-[![DitroniX WiKi Pages](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitGub%20WiKi.png?raw=true)](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/wiki)
+[![DitroniX WiKi Pages](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/wiki)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor?tab=readme-ov-file#updates)
 
