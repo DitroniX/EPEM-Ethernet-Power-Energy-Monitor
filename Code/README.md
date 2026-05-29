@@ -11,7 +11,7 @@ The **EPEM** is **ESP32-C6** based and the following examples/information should
 
 **FLEX** is PlatformIO code which tests and runs on either the EPEM ATM90E32 or EPEM ATM90E326.
 
-[FLEX can be found here](https://github.com/DitroniX/FLEX-DitroniX-Power-Energy-Monitor-Firmware)
+[FLEX can be found here](https://github.com/DitroniX/EPEM-Ethernet-Power-Energy-Monitor/tree/main/Code/PlatformIO)
 
 **Home Assistant (ESPHome)** support is also provided.
 
